@@ -43,7 +43,7 @@ subtitle:
 
 feature:
   - description: User Study, Focus Groups, Prototyping, Wire Framing, Design Thinking, Accessibility, Storyboards, Survey Design and Sampling, User Interviews
-    icon: users
+    icon: user
     icon_pack: fab
     name: Human-Computer Interaction
   - description: Data Collection and Analysis, Report Writing, Participant Observation, Ethnographic Research
