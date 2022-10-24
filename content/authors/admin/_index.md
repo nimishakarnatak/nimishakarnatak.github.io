@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science in Digital Society
+    - course: Master of Science in Digital Design
       institution: International Institute of Information Technology, Bangalore
       year: 2021
     - course: B.Tech. in Induatrial and Production Engineering
@@ -46,19 +46,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KarnatakNimisha
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nimishakarnatak
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nimisha-karnatak/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -68,13 +65,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'nimishakarnatak12@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nimisha Karnatak is a Research Fellow at Microsoft Research Lab, India working under the guidance of Dr. Mohit Jain, and Dr. Bill Theis. Her research interests include qualitative research in the domain of Human-Computer Interaction, ICT4D. 
+I am a Research Fellow at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) working under the guidance of [Dr. Mohit Jain](https://www.microsoft.com/en-us/research/people/mohja/), and [Dr. Bill Theis](https://billthies.net/). My research interests lie at the intersection of technology and healthcare. I am also interested in the field of Information and Communication Technologies for Development (ICT4D). A significant portion of my current research work revolves around understanding the digital healthcare ecosystem in low resource communities in India.
+
+I received my Master's of Science in Digital Design from [IIIT, Bangalore](https://www.iiitb.ac.in/) where I was part of the Dean's Merit List. Before that, I completed my B.Tech. in Industrial and Production Engineering from [G.B. Pant University of Agriculture and Technology, Pantnagar](https://www.gbpuat.ac.in/) where I was the Vice Chancellor's Silver Medalist and recieved topper's scholarship throught the B.Tech programme.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
