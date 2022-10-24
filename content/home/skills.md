@@ -15,19 +15,45 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+# feature:
+#   - description: 
+#     icon: user
+#     icon_pack: fab
+#     name: User Study
+#   - description: 100%
+#     icon: users-medical
+#     icon_pack: fas
+#     name: Focus Group
+#   - description: 10%
+#     icon: user-group
+#     icon_pack: fas
+#     name: Stakeholder/User Interviews
+#   - description: 90%
+#     icon: database
+#     icon_pack: fab
+#     name: SQL
+#   - description: 90%
+#     icon: mobile-screen
+#     icon_pack: fab
+#     name: Prototyping
+#   - description: 90%
+#     icon: book
+#     icon_pack: fab
+#     name: Qualitative Research and Quantitative Research
+
 feature:
-  - description: 90%
-    icon: r-project
+  - description: User Study, Focus Groups, Prototyping, Wire Framing, Design Thinking, Accessibility, Storyboards, Survey Design and Sampling, User Interviews
+    icon: users
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Human-Computer Interaction
+  - description: Data Collection and Analysis, Report Writing, Participant Observation, Ethnographic Research
+    icon: book
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Qualitative and Quantitative Research
+  - description: SQL, MS Office, Advanced Statistics, Tableau
+    icon: database
     icon_pack: fas
-    name: Photography
+    name: Data Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
