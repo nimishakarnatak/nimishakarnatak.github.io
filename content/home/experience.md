@@ -42,7 +42,7 @@ experience:
     location: Roorkee, India
     date_start: '2020-06-01'
     date_end: '2020-07-31'
-    description:  Project: Evaluation of urban space from the perception of the elderly to build an inclusive neighbourhood
+    description:  "Project: Evaluation of urban space from the perception of the elderly to build an inclusive neighbourhood"
 
   - title: Qualitative Research Assistant
     company: International Labour Organisation (ILO)
@@ -51,7 +51,7 @@ experience:
     location: Geneva, Switzerland
     date_start: '2019-09-01'
     date_end: '2020-05-01'
-    description: Project: Exploring the experiences of women working in the AI domain in India and understand the ethical aspects of AI from the perspective of women.
+    description: "Project: Exploring the experiences of women working in the AI domain in India and understand the ethical aspects of AI from the perspective of women."
 
   - title: Research Intern
     company: Digital Identity Research Initiative at Indian School Of Business
@@ -60,7 +60,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-01-01'
     date_end: '2020-04-01'
-    description: Project: Exploring the implication of Aadhar failure and consequential exclusion.
+    description: "Project: Exploring the implication of Aadhar failure and consequential exclusion."
 
 
 design:
