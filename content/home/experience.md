@@ -22,28 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Fellow
+    company: Microsoft Research Lab, India
+    company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'
+    company_logo: msr-logo
+    location: Bengaluru, India
+    date_start: '2021-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Understanding the ecosystem of BP management in low resource communities of India
+        * Understanding the technology mediated interaction of phlebotomists in India
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: User Experience Research Intern
+    company: Indian Institute of Technology Roorkee
+    company_url: 'https://www.iitr.ac.in/'
+    company_logo: iitr-logo
+    location: Roorkee, India
+    date_start: '2020-06-01'
+    date_end: '2020-07-31'
+    description:  |2- 
+    Project: Evaluation of urban space from the perception of the elderly to build an inclusive neighbourhood
+
+  - title: Qualitative Research Assistant
+    company: International Labour Organisation (ILO)
+    company_url: 'https://www.ilo.org/global/lang--en/index.htm'
+    company_logo: ilo-logo
+    location: Geneva, Switzerland
+    date_start: '2019-09-01'
+    date_end: '2020-05-01'
+    description: |2- 
+    Project: Exploring the experiences of women working in the AI domain in India and understand the ethical aspects of AI from the perspective of women.
+
+  - title: Research Intern
+    company: Digital Identity Research Initiative at Indian School Of Business
+    company_url: 'https://www.isb.edu/en.html'
+    company_logo: isb-logo
+    location: Bengaluru, India
+    date_start: '2020-01-01'
+    date_end: '2020-04-01'
+    description: |2- 
+    Project: Exploring the implication of Aadhar failure and consequential exclusion.
+
 
 design:
   columns: '2'
