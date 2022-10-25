@@ -25,7 +25,7 @@ experience:
   - title: Research Fellow
     company: Microsoft Research Lab, India
     company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-india/'
-    company_logo: msr-logo
+    company_logo: ms-logo
     location: Bengaluru, India
     date_start: '2021-07-01'
     date_end: ''
