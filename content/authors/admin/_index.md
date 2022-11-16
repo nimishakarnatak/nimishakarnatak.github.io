@@ -18,7 +18,7 @@ organizations:
     url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie at the intersection of technology and healthcare.
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:nimishakarnatak12@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KarnatakNimisha
