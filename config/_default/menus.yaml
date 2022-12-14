@@ -14,11 +14,11 @@ main:
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 40
   - name: Contact
     url: '#contact'
     weight: 50
   - name: CV
     url: uploads/resume.pdf
-    weight: 70
+    weight: 60
