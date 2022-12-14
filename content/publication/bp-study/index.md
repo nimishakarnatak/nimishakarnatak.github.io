@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: '“Is it even giving the correct reading or not?”: How Trust and Relationships Mediate Chronic Disease Management in India'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
