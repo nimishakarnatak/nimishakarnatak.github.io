@@ -32,11 +32,8 @@ content:
     city: 
     region: 
     postcode:
-    country: India
-    country_code: IN
-  coordinates:
-    latitude: 
-    longitude:
+    country:
+    country_code:
   directions:
   appointment_url: 
   contact_links:

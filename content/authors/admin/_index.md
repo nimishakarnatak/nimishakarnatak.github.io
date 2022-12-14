@@ -18,7 +18,7 @@ organizations:
     url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the intersection of technology and healthcare.
+bio: I conduct human-centered research in the domain of healthcare and accessibility.
 
 # Interests to show in About widget
 interests:
