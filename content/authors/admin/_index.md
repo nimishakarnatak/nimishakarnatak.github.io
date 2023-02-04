@@ -77,6 +77,5 @@ I earned my Master of Science in Digital Society (specialization: Data Intensive
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<small>
-[^1]: WHO defines wellness as: “The realization of the fullest potential of an individual physically, psychologically, socially, spiritually and economically."
-</small>
+
+[^1]: <small> WHO defines wellness as: “The realization of the fullest potential of an individual physically, psychologically, socially, spiritually and economically." </small>
