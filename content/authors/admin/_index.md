@@ -24,7 +24,7 @@ bio: I conduct human-centered research in the domain of healthcare and accessibi
 interests:
   - Human-Computer Interaction
   - Healthcare and Wellness Technologies
-  - Accessibility and Inclusivity Technologies and Spaces
+  - Accessible and Inclusive Technologies and Spaces
   - Human-AI Interactions
   - ICT4D
   - Applications of Large Language Models in HCI
