@@ -32,10 +32,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Master of Science in Digital Design
+    - course: Master of Science in Digital Society
       institution: International Institute of Information Technology, Bangalore
       year: 2021
-    - course: B.Tech. in Induatrial and Production Engineering
+    - course: B.Tech. in Industrial and Production Engineering
       institution: G.B. Pant University of Agriculture & Technology
       year: 2018
 
