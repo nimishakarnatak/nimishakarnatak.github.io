@@ -52,9 +52,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/nimishakarnatak
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nimisha-karnatak/
