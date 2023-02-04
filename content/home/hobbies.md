@@ -16,6 +16,7 @@ I am dedicated to promoting the rich heritage of authentic Indian vegetarian cui
 **Motivation to start the page**: The trend of getting fit and losing weight is on the rise. However, the importance of traditional Indian cuisine in upholding a healthy lifestyle is underappreciated. There is a need for Indians to embrace their own diverse food heritage and look at their traditional food wisdom as healthy. My Instagram channel is an effort in the same direction where I showcase authentic Indian foods that are healthy, easily available, affordable, and also suit Indian taste buds. 
 
 **Link to the page**: [https://www.instagram.com/indian_weightloss_recipies](https://www.instagram.com/indian_weightloss_recipies/) 
-The page also helps me to express my creativity as I do the photoshoot of all the cuisines that I prepare. Attached are the images of few of my culinary preparation. 
 
+The page also helps me to express my creativity as I do the photoshoot of all the cuisines that I prepare. Attached are the images of few of my culinary preparation. 
+<br>
 {{< gallery album="ind_weight_loss" >}}
