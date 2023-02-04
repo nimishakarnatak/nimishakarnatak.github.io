@@ -23,8 +23,7 @@ bio: I conduct human-centered research in the domain of healthcare and accessibi
 # Interests to show in About widget
 interests:
   - Human-Computer Interaction
-  - Healthcare and Wellness Technologies
-  - Accessible and Inclusive Technologies and Spaces
+  - Wellness Technologies
   - Human-AI Interactions
   - ICT4D
   - Applications of Large Language Models in HCI
