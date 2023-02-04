@@ -26,7 +26,7 @@ interests:
   - Healthcare and Wellness Technologies
   - Accessibility and Inclusivity Technologies and Spaces
   - Human-AI Interactions
-  - Information and Communication Technology for Development
+  - ICT4D
   - Applications of Large Language Models in HCI
 
 # Education to show in About widget
