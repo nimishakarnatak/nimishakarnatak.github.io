@@ -9,7 +9,21 @@ image:
   caption: 
   focal_point: 
 
-url_slides: slides/blind-project.pdf
+url_slides: slides/accessibility-project.pdf
 ---
 
-The usage of mobile payment apps over a period of time has seen staggering growth, mainly because they allow for a seamless and relatively low cost of funds. People are using mobile payment apps for a variety of purposes from phone recharge, bill payments, shopping to flight bookings. This has allowed various mobile payment service providers to tap into the mobile payment market for cashing on its unparalleled advantages. Though there are numerous benefits of using these mobile payment apps, still the transition from a cash to a completely digitized payment landscape would take time. Thus, it becomes important to investigate how different people perceive these mobile payment apps, including the visually challenged one. Through this research we tried to understand the pain points and frustrations of visually challenged individual who are using mobile payment applications;their reasons for adoption and deterrents for non-adoption and ultimately we tried to design prototype of the payment interface which would be accessible for them.
+Steps involved:
+
+1. Empathize: For understanding the experiences and pain points of visually challenged individuals using mobile payment applications in outdoor and indoor settings, we conducted user research using qualitative interviews on zoom calls and also carried auto-ethnography as one of the team members was visually challenged. We then transcribed the interviews; developed themes from coding and axial coding: and made personas, scenarios, and storyboards to highlight the key findings from the user study.
+
+2. Define: We then defined a problem statement keeping in mind the major issues faced by the user that included a cluttered interface, unlabelled buttons, and a small-time window. Our Problem statement: 'How to improve the user experience of the mobile payment application for the visually challenged individuals while they are
+
+performing peer-to-peer transaction?' 3. Ideate: For ideation, we used participatory design methodology: inspiration card workshop'. 4. Prototype: We developed a low fidelity prototype (Braille inscribed on cardboard simulating mobile phone screens) and a high fidelity prototype (by deploying Adobe XD) for usability testing.
+
+5. Test: For evaluating the prototype, one of us (team members) enacted the screen reader's voice while testing the low-fidelity and high-fidelity prototype with the participants. The methods used for evaluation plan :
+
+- Hawk evaluation
+
+- Speak aloud for low fidelity prototype with Visually challenged users, followed by an interview
+
+- Speak aloud for high fidelity prototype with Visually sighted users, followed by an interview
