@@ -18,5 +18,7 @@ I am dedicated to promoting the rich heritage of authentic Indian vegetarian cui
 **Link to the page**: [https://www.instagram.com/indian_weightloss_recipies](https://www.instagram.com/indian_weightloss_recipies/) 
 
 The page also helps me to express my creativity as I do the photoshoot of all the cuisines that I prepare. Attached are the images of few of my culinary preparation. 
-<br> <br> <br><br> <br> 
+<br> <br> <br>
 {{< gallery album="ind_weight_loss" >}}
+<br><br><br>
+Additionally, as a personal pursuit, I play guitar for relaxation and enjoyment.
