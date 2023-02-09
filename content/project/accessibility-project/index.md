@@ -21,7 +21,9 @@ For this project, I used Design Thinking Framework.
 
 - **Define**: After analyzing the data obtained from the user research, we developed a problem statement keeping in mind the major issues faced by the user that included cluttered interface,unlabelled buttons that are not readable by the screenreader and small time window for entering credentials. We defined the problem statement as ‘How to improve the user experience of the mobile payment application for the visually challenged individuals while they are performing peer to peer transaction?’
 
-- **Ideate**: For ideation, we used participatory design methodology: ‘ inspiration card workshop’. 4. Prototype: Based on the design concepts obtained from user research and ideation phase, we developed a low fidelity prototype (Braille inscribed on cardboard simulating mobile phone screens) and a high fidelity prototype ( by deploying Adobe XD) for usability testing.
+- **Ideate**: For ideation, we used participatory design methodology: ‘ inspiration card workshop’. 
+
+- **Prototype**: Based on the design concepts obtained from user research and ideation phase, we developed a low fidelity prototype (Braille inscribed on cardboard simulating mobile phone screens) and a high fidelity prototype ( by deploying Adobe XD) for usability testing.
 
 - **Test**: We made an evaluation plan to evaluate the prototype among the users. One of us enacted the screen reader's voice while testing the low-fidelity and high-fidelity prototype with the participants. 
 
