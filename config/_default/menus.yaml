@@ -7,24 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Recent News
+    url: '#recent_news'
+    weight: 20
   - name: Awards
     url: '#awards'
-    weight: 20
+    weight: 30
   - name: Experience
     url: '#experience'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Projects
     url: '#projects'
-    weight: 50
+    weight: 60
   - name: Hobbies
     url: '#hobbies'
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
   - name: CV
     url: uploads/resume.pdf
-    weight: 80
+    weight: 90
