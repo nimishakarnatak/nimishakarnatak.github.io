@@ -5,7 +5,7 @@ widget: markdown
 # This file represents a page section.
 headless: true
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 title: Hobbies
 subtitle:
 design:

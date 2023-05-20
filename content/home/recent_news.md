@@ -15,5 +15,5 @@ design:
 **[July 2021]** Joined Microsoft Research India as a Research Fellow. \
 **[July 2021]** Received the Dean's Merit List recognition at IIIT-Bangalore. \
 **[July 2019]** Joined the International Institute of Information Technology as an MSC student in the Digital Society specialization: Data Intensive Digital Design. \
-**[July 2018]** Received the Vice Chancellor's Silver Medal during my BTech for outstanding academic performance in July 2018.
+**[July 2018]** Received the Vice Chancellor's Silver Medal during my BTech for outstanding academic performance in July 2018. \
 **[September 2014]** Started B.Tech in Industrial and Production Engineering at Govind Ballabh Pant University of Agriculture and Technology, Pantnagar.
