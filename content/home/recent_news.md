@@ -11,7 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
-**[May 2023]** The first-author paper, titled "Is it even giving the correct reading or not?": How Trust and Relationships Mediate Chronic Disease Management in India," has been accepted for publication in ACM TOCHI. \
+**[May 2023]** The first-author paper, titled "Is it even giving the correct reading or not?": How Trust and Relationships Mediate Chronic Disease Management in India," has been accepted for publication in ACM TOCHI. 🎉 \
 **[July 2021]** Joined Microsoft Research India as a Research Fellow. \
 **[July 2021]** Received the Dean's Merit List recognition at IIIT-Bangalore. \
 **[July 2019]** Joined the International Institute of Information Technology as an MSC student in the Digital Society specialization: Data Intensive Digital Design. \
