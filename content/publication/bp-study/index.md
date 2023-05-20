@@ -27,8 +27,8 @@ publishDate: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at the Transactions on Human-Computer Interactions (TOCHI).
-publication_short: Under review at TOCHI
+publication: Accepted at the ACM Transactions on Human-Computer Interactions (TOCHI).
+publication_short: Accepted at ACM TOCHI
 
 abstract: While chronic disease afflicts a large Indian population, the technologies used to manage chronic diseases have largely been informed by studies conducted in other sociocultural contexts. To address this gap, we conducted qualitative interviews with 21 patients clinically diagnosed with abnormal blood pressure (BP) living in low-resourced communities of Haryana, Uttarakhand and Uttar Pradesh in India. We found that patients’ trust in the BP ecosystem and social ties plays a significant role in shaping their perceptions of technology and chronic care. Trust in one actor of the ecosystem fosters trust in another, e.g., trust in BP reading depended on the type of device and the person measuring the BP. We also observed nuanced sharing and intermediation of BP devices. Based on our findings, we recommend designs to boost patients’ trust, familiarity, and access to technologies used in BP management and improve their experience of care in low-resource settings in India.
 
