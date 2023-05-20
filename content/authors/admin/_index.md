@@ -32,6 +32,9 @@ education:
       institution: G.B. Pant University of Agriculture & Technology
       year: 2018
 
+news:
+  - Full paper titled "BP Study" accepted in ACM TOCHI
+
 
 # # Interests to show in About widget
 # interests:
