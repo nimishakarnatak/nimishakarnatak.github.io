@@ -20,13 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I conduct human-centered research in the domain of healthcare and accessibility.
 
-# Interests to show in About widget
-interests:
-  - Human-Computer Interaction
-  - Wellness Technologies
-  - Human-AI Interactions
-  - ICT4D
-  - Applications of Large Language Models in HCI
+
 
 # Education to show in About widget
 education:
@@ -37,6 +31,15 @@ education:
     - course: B.Tech. in Industrial and Production Engineering
       institution: G.B. Pant University of Agriculture & Technology
       year: 2018
+
+
+# # Interests to show in About widget
+# interests:
+#   - Human-Computer Interaction
+#   - Wellness Technologies
+#   - Human-AI Interactions
+#   - ICT4D
+#   - Applications of Large Language Models in HCI
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'nimishakarnatak12@gmail.com'
