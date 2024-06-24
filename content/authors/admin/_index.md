@@ -10,12 +10,12 @@ last_name: Karnatak
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: CS Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Microsoft Research Lab, India
-    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
+  - name: University of Oxford
+    url: https://www.ox.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I conduct human-centered research in the domain of healthcare and accessibility.
