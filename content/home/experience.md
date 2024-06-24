@@ -37,7 +37,7 @@ experience:
     company_logo: ms-logo
     location: Bengaluru, India
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2023-04-30'
     description: |2-
         Projects:
         
