@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Nimisha Karnatak | CS PhD @ Oxford # Website name
+title: Nimisha Karnatak | PhD @ Oxford # Website name
 baseURL: 'https://www.nimishakarnatak.com/' # Website URL
 # baseURL: 'http://localhost:1313/'
 
