@@ -56,7 +56,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/nimisha-karnatak/
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=3bXGqRoAAAAJ
 
 # Link to a PDF of your resume/CV.
