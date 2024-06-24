@@ -11,7 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
-**[May 2024]** Joined Google Deepmind London as a Student Researcher. \
+**[April 2024]** Joined Google Deepmind London as a Student Researcher. \
 **[April 2024]** My first-author paper, titled "Understanding the Technology-Mediated Home Phlebotomy Ecosystem in India," has been accepted for publication in ACM CSCW. 🎉 \
 **[Sept 2024]** Started D.Phil. in Computer Science at the University of Oxford. \
 **[May 2023]** My first-author paper, titled "Is it even giving the correct reading or not?": How Trust and Relationships Mediate Chronic Disease Management in India," has been accepted for publication in ACM TOCHI. 🎉 \
