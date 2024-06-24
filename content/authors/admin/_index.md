@@ -31,6 +31,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - courae: D.Phil in Computer Science
+      institution: University of Oxford
+      year: 2027
     - course: Master of Science in Digital Society
       institution: International Institute of Information Technology, Bangalore
       year: 2021
