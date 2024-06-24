@@ -25,9 +25,9 @@ main:
   - name: Hobbies
     url: '#hobbies'
     weight: 70
-  - name: Contact
-    url: '#contact'
-    weight: 80
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 90
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 80
+  # - name: CV
+  #   url: uploads/resume.pdf
+  #   weight: 90
