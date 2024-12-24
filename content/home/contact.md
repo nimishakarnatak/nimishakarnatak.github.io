@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: You can reach me at nimisha (dot) karnatak @ cs.ox.ac.uk
+  email: You can reach me at nimisha [dot] karnatak [at] cs.ox.ac.uk
   phone: 
   address:
     street: University of Oxford, Department of Computer Science, Wolfson Building, 7 Parks Road
