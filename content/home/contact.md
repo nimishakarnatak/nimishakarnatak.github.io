@@ -28,7 +28,7 @@ content:
   email: You can reach me at nimisha (dot) karnatak @ cs.ox.ac.uk
   phone: 
   address:
-    street: Department of Computer Science, Wolfson Building, 7 Parks Road
+    street: University of Oxford, Department of Computer Science, Wolfson Building, 7 Parks Road
     city: Oxford
     region: 
     postcode: 'OX1 3QG'
