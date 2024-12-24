@@ -25,22 +25,23 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: t-nkarnatak@microsoft.com
+  email: You can reach me at nimisha (dot) karnatak @ cs.ox.ac.uk
   phone: 
   address:
-    street: 
-    city: 
+    street: Department of Computer Science, Wolfson Building, 7 Parks Road
+    city: Oxford
     region: 
-    postcode:
-    country:
-    country_code:
+    postcode: 'OX1 3QG'
+    country: United Kingdom
+    country_code: UK
   directions:
   appointment_url: 
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/KarnatakNimisha'
+  autolink: false
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: DM Me
+  #     link: 'https://twitter.com/KarnatakNimisha'
 
 design:
   columns: '2'
