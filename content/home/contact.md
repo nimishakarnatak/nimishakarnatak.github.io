@@ -13,16 +13,16 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: You can reach me at nimisha (dot) karnatak @ cs.ox.ac.uk
@@ -36,7 +36,6 @@ content:
     country_code: UK
   directions:
   appointment_url: 
-  autolink: false
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab
