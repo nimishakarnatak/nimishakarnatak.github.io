@@ -16,7 +16,7 @@ role: CS Ph.D. Student
 organizations:
   - name: University of Oxford
     url: https://www.ox.ac.uk/
-  - name: Google Deepmind, London
+  - name: Google Deepmind London
     url: https://deepmind.google/
   - name: Microsoft Research India
     url: https://www.microsoft.com/en-us/research/lab/microsoft-research-india/
