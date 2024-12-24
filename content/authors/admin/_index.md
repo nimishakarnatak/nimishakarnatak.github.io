@@ -30,7 +30,7 @@ interests:
   - Wellness Technologies
   - Human-AI Interactions
   - ICT4D
-  - Applications of Large Language Models in HCI
+  - Large Language Models
 
 # Education to show in About widget
 education:
