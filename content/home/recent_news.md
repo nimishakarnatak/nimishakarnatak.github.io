@@ -11,7 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
-**[March 2025]** New preprint from my Google DeepMind internship, presenting ACAI — a multimodal GenAI system designed to support novice designers, such as small business owners, through structured and context-aware co-creation workflows.
+**[March 2025]** New preprint from my Google DeepMind internship, presenting ACAI — a multimodal GenAI system designed to support novice designers, such as small business owners, through structured and context-aware co-creation workflows. \
 **[April 2024]** Joined Google Deepmind London as a Student Researcher. <img style="display: inline-block;" src="https://asset.brandfetch.io/id9M89MUnI/idM_56IwCN.jpeg" alt= “” width="20" height="20"> \
 **[April 2024]** My first-author paper, titled "Understanding the Technology-Mediated Home Phlebotomy Ecosystem in India," has been accepted for publication in ACM CSCW. 🎉 \
 **[Jan 2024]**  Awarded $1,500 scholarship to present my work titled “Generative AI as Collaborative Technology for ASHA Workers in Marginalized Communities.” at the 38th AAAI Conference on Artificial Intelligence in person. \
