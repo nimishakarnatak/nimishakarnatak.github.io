@@ -20,7 +20,7 @@ design:
 **[Sept 2023]** Selected for the SIGCHI Emerging Scholars at CSCW 2023 and awarded $1,000 in financial support. \
 **[Sept 2023]** Started D.Phil. in Computer Science at the University of Oxford.  🎉  \
 **[May 2023]** My first-author paper, titled "Is it even giving the correct reading or not?": How Trust and Relationships Mediate Chronic Disease Management in India," has been accepted for publication in ACM TOCHI. 🎉 \
-**[Apr 2023]** Received PhD offers from Imperial College London, UCL, University of Toronto, Max Planck Institute for Intelligent Systems, UIUC, and University of Oxford. Accepted at Oxford! 🎉 \
+**[Apr 2023]** Honored to receive PhD offers from Imperial College London, UCL, University of Toronto, Max Planck Institute for Intelligent Systems, UIUC. Grateful to have chosen Oxford as the home for my doctoral research. 🎉 \
 **[July 2021]** Joined Microsoft Research India as a Research Fellow. <img style="display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt= “” width="20" height="20"> \
 **[July 2021]** Received the Dean's Merit List recognition at IIIT-Bangalore. 🏅 \
 **[July 2019]** Joined the International Institute of Information Technology as an M.Sc. student in the Digital Society specialization: Data Intensive Digital Design. \
