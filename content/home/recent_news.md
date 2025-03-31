@@ -11,6 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
+**[April 2025]** A subset of the larger project I worked on at Google DeepMind has been accepted at the CHI 2025 Workshop on “Designing and Developing User Interfaces with AI: Advancing Tools, Workflows, and Practices.” See you in Yokohama! 🇯🇵 \
 **[March 2025]** Selected as one of only 25 globally distinguished PhD and postdoctoral researchers for the invite-only Citadel and Citadel Securities PhD Summit in London. \
 **[March 2025]** New preprint from my Google DeepMind internship, presenting ACAI — a multimodal GenAI system designed to support novice designers, such as small business owners, through structured and context-aware co-creation workflows. \
 **[April 2024]** Joined Google Deepmind London as a Student Researcher. <img style="display: inline-block;" src="https://asset.brandfetch.io/id9M89MUnI/idM_56IwCN.jpeg" alt= “” width="20" height="20"> \
