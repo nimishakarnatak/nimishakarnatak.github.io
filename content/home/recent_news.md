@@ -11,6 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
+**[March 2025]** Selected as one of only 25 globally distinguished PhD and postdoctoral researchers for the invite-only Citadel and Citadel Securities PhD Summit in London. \
 **[March 2025]** New preprint from my Google DeepMind internship, presenting ACAI — a multimodal GenAI system designed to support novice designers, such as small business owners, through structured and context-aware co-creation workflows. \
 **[April 2024]** Joined Google Deepmind London as a Student Researcher. <img style="display: inline-block;" src="https://asset.brandfetch.io/id9M89MUnI/idM_56IwCN.jpeg" alt= “” width="20" height="20"> \
 **[April 2024]** My first-author paper, titled "Understanding the Technology-Mediated Home Phlebotomy Ecosystem in India," has been accepted for publication in ACM CSCW. 🎉 \
@@ -18,6 +19,7 @@ design:
 **[Sept 2023]** Selected for the SIGCHI Emerging Scholars at CSCW 2023 and awarded $1,000 in financial support. \
 **[Sept 2023]** Started D.Phil. in Computer Science at the University of Oxford.  🎉  \
 **[May 2023]** My first-author paper, titled "Is it even giving the correct reading or not?": How Trust and Relationships Mediate Chronic Disease Management in India," has been accepted for publication in ACM TOCHI. 🎉 \
+**[Apr 2023]** Received PhD offers from Imperial College London, UCL, University of Toronto, Max Planck Institute for Intelligent Systems, UIUC, and University of Oxford. Accepted at Oxford! 🎉 \
 **[July 2021]** Joined Microsoft Research India as a Research Fellow. <img style="display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt= “” width="20" height="20"> \
 **[July 2021]** Received the Dean's Merit List recognition at IIIT-Bangalore. 🏅 \
 **[July 2019]** Joined the International Institute of Information Technology as an M.Sc. student in the Digital Society specialization: Data Intensive Digital Design. \
