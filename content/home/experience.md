@@ -27,9 +27,9 @@ experience:
     company_url: 'https://www.worldbank.org/'
     company_logo: worldbank
     location: London, UK
-    date_start: '2025-06-01'
+    date_start: '2025-05-01'
     date_end: ''
-    description:
+    description: 
 
   - title: Student Researcher
     company: Google Deepmind, London
@@ -37,8 +37,8 @@ experience:
     company_logo: google-logo
     location: London, UK
     date_start: '2024-04-01'
-    date_end: ''
-    description:
+    date_end: '2024-10-01'
+    description: "Project: ACAI for SBOs: AI Co-creation for Advertising and Inspiration for Small Business Owners"
 
   - title: Research Fellow
     company: Microsoft Research Lab, India
