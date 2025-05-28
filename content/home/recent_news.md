@@ -11,7 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
-**[May 2025]** Joined World Bank as an International Consultant. <img style="display: inline-block;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> \
+**[May 2025]** Joined The World Bank as an International Consultant. <img style="display: inline-block;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> \
 **[April 2025]** A subset of the larger project I worked on at Google DeepMind has been accepted at the CHI 2025 Workshop on “Designing and Developing User Interfaces with AI: Advancing Tools, Workflows, and Practices.” See you in Yokohama! 🇯🇵 \
 **[March 2025]** Selected as one of only 25 globally distinguished PhD and postdoctoral researchers for the invite-only Citadel and Citadel Securities PhD Summit in London. \
 **[March 2025]** New preprint from my Google DeepMind internship, presenting ACAI — a multimodal GenAI system designed to support novice designers, such as small business owners, through structured and context-aware co-creation workflows. \
