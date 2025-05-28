@@ -26,7 +26,7 @@ experience:
     company: The World Bank
     company_url: 'https://www.worldbank.org/'
     company_logo: worldbank
-    location: London, UK
+    location: Washington D.C., USA
     date_start: '2025-05-01'
     date_end: ''
     description: 
