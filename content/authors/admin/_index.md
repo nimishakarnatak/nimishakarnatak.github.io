@@ -16,7 +16,7 @@ role: CS Ph.D. Student | Student Researcher
 organizations:
   - name: University of Oxford
     url: https://www.ox.ac.uk/
-  - name: World Bank
+  - name: The World Bank
     url: https://www.worldbank.org/
   - name: Google Deepmind London
     url: https://deepmind.google/
