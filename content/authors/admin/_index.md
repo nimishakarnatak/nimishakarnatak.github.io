@@ -10,7 +10,7 @@ last_name: Karnatak
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D. Student | Student Researcher
+role: CS Ph.D. Student | International Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
