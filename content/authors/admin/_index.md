@@ -28,11 +28,12 @@ bio: I conduct human-centered research in the domain of healthcare and accessibi
 
 # Interests to show in About widget
 interests:
-  - Human-Computer Interaction
-  - Wellness Technologies
-  - Human-AI Interactions
-  - ICT4D
-  - Large Language Models
+  - Human–AI Interaction
+  - Generative AI
+  - Trustworthy AI and Responsible AI
+  - AI Governance & Policy
+  - Socio-technical Systems
+  - AI in High-Stakes Domains
 
 # Education to show in About widget
 education:
@@ -83,8 +84,9 @@ highlight_name: true
 ---
 
 <!-- My research is driven by the fundamental need to address the inequalities faced by underserved populations, with the ultimate mission of improving their quality of life. This commitment shapes my ongoing  -->
+I am a Ph.D. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk/), where I am supervised by [Professor Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) and [Professor Max Van Kleek](https://www.cs.ox.ac.uk/people/max.vankleek/) (two of my favorite people in the world!). My doctoral research examines how large language model (LLM)–based systems, including multi-agent AI systems, can be designed to support professionals in high-stakes real-world settings such as public policy and development, entrepreneurship, healthcare, and education. I design and evaluate context-aware, workflow-compatible AI systems that align with the cognitive demands, institutional constraints, and decision-making responsibilities of professional work.
 
-I am a Ph.D. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk/), where I am supervised by [Professor Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) and [Professor Max Van Kleek](https://www.cs.ox.ac.uk/people/max.vankleek/) (two of my favorite people in the world!). My PhD research focuses on the inclusive development of LLM-based systems for novice technology users in high-stakes settings. Alongside my doctoral studies, I am also working as an AI Research Intern at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> [The World Bank](https://www.worldbank.org/en/what-we-do). Prior to this, I also worked as Student Researcher at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepmind-color.png" alt= “” width="20" height="20">  [<span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #4285F4;">g</span><span style="color: #34A853;">l</span><span style="color: #EA4335;">e</span> DeepMind](https://deepmind.google/) in London, where my research focuses on co-creation with generative AI.
+Alongside my doctoral studies, I am also working as an AI Research Intern at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> [The World Bank](https://www.worldbank.org/en/what-we-do). Prior to this, I also worked as Student Researcher at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepmind-color.png" alt= “” width="20" height="20">  [<span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #4285F4;">g</span><span style="color: #34A853;">l</span><span style="color: #EA4335;">e</span> DeepMind](https://deepmind.google/) in London, where my research focuses on co-creation with generative AI.
 
 Before joining PhD, I worked as a [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt= “” width="20" height="20"> [Microsoft Research India (MSRI)](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). At MSRI, I conducted human-centered research in the domain of healthcare under the supervision of (the incredible) [Dr. Bill Theis](https://en.wikipedia.org/wiki/Bill_Thies). Over the years, I have been privileged to contribute as an intern or research assistant at some of the world's most prestigious institutions, including the [International Labour Organization (𝐈𝐋𝐎)](https://www.ilo.org/) in Geneva, Switzerland, the [Indian Institute of Technology Roorkee (𝐈𝐈𝐓-𝐑)](https://www.iitr.ac.in/), the [Indian School of Business (𝐈𝐒𝐁)](https://www.isb.edu/en.html), and the [Indian Institute of Remote Sensing (𝐈𝐈𝐑𝐒)](https://www.iirs.gov.in/) under the [Indian Space Research Organization (𝐈𝐒𝐑𝐎)](https://www.isro.gov.in/).
 

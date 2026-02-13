@@ -11,6 +11,7 @@ subtitle:
 design:
   columns: '2'
 ---
+**[Jan 2026]** My first-author paper, “Learning from AVA: Early Lessons from a Curated and Trustworthy Generative AI for Policy and Development Research,” has been accepted at CHI 2026. See you in Spain!
 **[May 2025]** Joined The World Bank as an International Consultant. <img style="display: inline-block;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> \
 **[April 2025]** A subset of the larger project I worked on at Google DeepMind has been accepted at the CHI 2025 Workshop on “Designing and Developing User Interfaces with AI: Advancing Tools, Workflows, and Practices.” See you in Yokohama! 🇯🇵 \
 **[March 2025]** Selected as one of only 25 globally distinguished PhD and postdoctoral researchers for the invite-only Citadel and Citadel Securities PhD Summit in London. \
