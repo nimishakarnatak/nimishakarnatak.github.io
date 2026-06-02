@@ -28,19 +28,18 @@ bio: I conduct human-centered research in the domain of healthcare and accessibi
 
 # Interests to show in About widget
 interests:
-  - Human–AI Interaction
-  - Generative AI
-  - Trustworthy AI and Responsible AI
-  - AI Governance & Policy
-  - Socio-technical Systems
-  - AI in High-Stakes Domains
+  - Responsible & Trustworthy AI,
+  - AI Safety
+  - Societal Impact of AI
+  - AI Ethics
+  - Human-AI Interaction
 
 # Education to show in About widget
 education:
   courses:
     - course: D.Phil. in Computer Science
       institution: University of Oxford
-      year: 2027
+      year: 
     - course: Master of Science in Digital Society
       institution: International Institute of Information Technology, Bangalore
       year: 2021
