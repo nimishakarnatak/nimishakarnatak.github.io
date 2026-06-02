@@ -28,7 +28,7 @@ bio: I conduct human-centered research in the domain of healthcare and accessibi
 
 # Interests to show in About widget
 interests:
-  - Responsible & Trustworthy AI,
+  - Responsible & Trustworthy AI
   - AI Safety
   - Societal Impact of AI
   - AI Ethics
@@ -83,7 +83,7 @@ highlight_name: true
 ---
 
 <!-- My research is driven by the fundamental need to address the inequalities faced by underserved populations, with the ultimate mission of improving their quality of life. This commitment shapes my ongoing  -->
-I am a Ph.D. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk/), where I am supervised by [Professor Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) and [Professor Max Van Kleek](https://www.cs.ox.ac.uk/people/max.vankleek/) (two of my favorite people in the world!). My doctoral research examines how large language model (LLM)–based systems, including multi-agent AI systems, can be designed to support professionals in high-stakes real-world settings such as public policy and development, entrepreneurship, healthcare, and education. I design and evaluate context-aware, workflow-compatible AI systems that align with the cognitive demands, institutional constraints, and decision-making responsibilities of professional work.
+I am a Ph.D. student in Computer Science at the [University of Oxford](https://www.ox.ac.uk/), where I am supervised by [Professor Sir Nigel Shadbolt](https://en.wikipedia.org/wiki/Nigel_Shadbolt) and [Professor Max Van Kleek](https://www.cs.ox.ac.uk/people/max.vankleek/) (two of my favorite people in the world!). My doctoral research examines how large language model (LLM)–based systems, including multi-agent AI systems, can be designed to support professionals in high-stakes real-world settings such as public policy and development, entrepreneurship, healthcare, and education.
 
 Alongside my doctoral studies, I am also working as an AI Research Intern at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://brandlogos.net/wp-content/uploads/2021/12/World-Bank-logo-icon-512x512.png" alt= “” width="20" height="20"> [The World Bank](https://www.worldbank.org/en/what-we-do). Prior to this, I also worked as Student Researcher at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepmind-color.png" alt= “” width="20" height="20">  [<span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #4285F4;">g</span><span style="color: #34A853;">l</span><span style="color: #EA4335;">e</span> DeepMind](https://deepmind.google/) in London, where my research focuses on co-creation with generative AI.
 
