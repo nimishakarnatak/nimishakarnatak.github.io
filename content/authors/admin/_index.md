@@ -27,14 +27,19 @@ organizations:
 bio: I conduct human-centered research in the domain of healthcare and accessibility.
 
 # Interests to show in About widget
-interests:
-  - Responsible & Trustworthy AI
-  - AI Safety
-  - Societal Impact of AI
-  - AI Ethics
-  - Human-AI Interaction
-  - AI Systems in the Wild
-  - AI  Evaluation
+interests: |-
+  <div class="interests-section">
+    <h3>Interests</h3>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Robustness</li>
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Efficiency</li>
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Distribution Shift</li>
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Vision Language Models</li>
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Diffusion Models</li>
+      <li><i class="fas fa-book-open" style="margin-right: 8px;"></i>Computer Vision</li>
+    </ul>
+  </div>
+  
 
 # Education to show in About widget
 education:
