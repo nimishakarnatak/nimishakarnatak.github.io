@@ -1,0 +1,11 @@
+.ul-interests {
+  list-style: none;
+  padding-left: 0;
+}
+
+.ul-interests li::before {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  content: "\f518"; /* fa-book-open */
+  margin-right: 8px;
+}
