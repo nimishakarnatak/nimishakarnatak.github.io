@@ -33,6 +33,8 @@ interests:
   - Societal Impact of AI
   - AI Ethics
   - Human-AI Interaction
+  - AI Systems in the Wild
+  - AI  Evaluation
 
 # Education to show in About widget
 education:
