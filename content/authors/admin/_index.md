@@ -27,14 +27,14 @@ organizations:
 bio: I conduct human-centered research in the domain of healthcare and accessibility.
 
 # Interests to show in About widget
-interests:
-  - Responsible & Trustworthy AI
-  - AI Safety
-  - Societal Impact of AI
-  - AI Ethics
-  - Human-AI Interaction
-  - AI Systems in the Wild
-  - AI  Evaluation
+# interests:
+#   - Responsible & Trustworthy AI
+#   - AI Safety
+#   - Societal Impact of AI
+#   - AI Ethics
+#   - Human-AI Interaction
+#   - AI Systems in the Wild
+#   - AI  Evaluation
 
 # Education to show in About widget
 education:
