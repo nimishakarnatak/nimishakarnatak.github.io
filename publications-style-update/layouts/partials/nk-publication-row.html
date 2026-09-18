@@ -1,0 +1,22 @@
+{{ $p := .paper }}
+<article class="nk-paper{{ if not .image }} nk-compact{{ end }}">
+{{ with .image }}<figure>
+<a class="nk-figure" href="{{ . | relURL }}" target="_blank" rel="noopener" aria-label="View full-size publication figure">
+<img src="{{ . | relURL }}" alt="{{ $.alt }}" loading="lazy" width="960" height="620">
+</a>
+<figcaption>{{ if $.bp }}Visual summary of qualitative findings. {{ end }}Open image to enlarge.</figcaption>
+</figure>{{ end }}
+<div>
+<p class="nk-venue">{{ $p.Params.publication_short | default $p.Params.publication | markdownify }}</p>
+<h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+<p class="nk-authors">{{ range $i, $author := $p.Params.authors }}{{ if $i }}, {{ end }}{{ if eq $author "admin" }}<strong>Nimisha Karnatak</strong>{{ else }}{{ $author }}{{ end }}{{ end }} ({{ $p.Date.Format "2006" }})</p>
+{{ with .summary }}<p class="nk-summary">{{ . }}</p>{{ end }}
+<div class="nk-links">
+{{ with $p.Params.doi }}<a href="https://doi.org/{{ . }}">DOI</a>{{ end }}
+{{ with $p.Params.url_pdf }}<a href="{{ . }}">Paper</a>{{ end }}
+{{ with $p.Params.url_project }}<a href="{{ . }}">Project website</a>{{ end }}
+{{ range $p.Params.links }}<a href="{{ .url }}">{{ .name }}</a>{{ end }}
+{{ with $p.Params.url_slides }}<a href="{{ . }}">Slides</a>{{ end }}
+<a href="{{ $p.RelPermalink }}">Details</a>
+</div>
+</div></article>
