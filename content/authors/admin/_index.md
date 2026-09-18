@@ -77,6 +77,11 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+  - icon: university
+    icon_pack: fas
+    link: https://www.cs.ox.ac.uk/people/nimisha.karnatak/
+    label: Oxford profile
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'nimishakarnatak12@gmail.com'
 
