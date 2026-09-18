@@ -1,0 +1,33 @@
+<script>
+(function () {
+  const labels = {
+    '.fa-envelope': 'Email me',
+    '.fa-twitter': 'X (Twitter) profile',
+    '.fa-linkedin': 'LinkedIn profile',
+    '.ai-google-scholar': 'Google Scholar profile',
+    '.ai-cv': 'View CV',
+    '.fa-university': 'University of Oxford profile'
+  };
+
+  function addIconLabels() {
+    document.querySelectorAll('.network-icon a').forEach(function (link) {
+      for (const [selector, label] of Object.entries(labels)) {
+        const icon = link.querySelector(selector);
+        if (!icon) continue;
+
+        link.setAttribute('title', label);
+        link.setAttribute('aria-label', label);
+        icon.setAttribute('aria-hidden', 'true');
+        link.closest('.network-icon').removeAttribute('aria-hidden');
+        break;
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', addIconLabels, { once: true });
+  } else {
+    addIconLabels();
+  }
+})();
+</script>
