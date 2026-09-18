@@ -1,0 +1,171 @@
+{{/* Compact Experience layout. Data stays in content/home/experience.md. */}}
+{{ $block := .wcBlock }}
+{{ $dateFormat := $block.Params.date_format | default "Jan 2006" }}
+
+<style>
+  #experience {
+    --nk-surface: #ffffff;
+    --nk-text: #20252b;
+    --nk-secondary: #46505b;
+    --nk-muted: #65707b;
+    --nk-rule: #e5e8eb;
+    --nk-accent: #1460a8;
+    background: var(--nk-surface);
+    color: var(--nk-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  }
+  body.dark #experience {
+    --nk-surface: #181b20;
+    --nk-text: #edf0f3;
+    --nk-secondary: #c4cbd4;
+    --nk-muted: #aab4bf;
+    --nk-rule: #343a42;
+    --nk-accent: #87c3ff;
+  }
+  #experience > .container {
+    width: 100%;
+    max-width: 900px;
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+  #experience > .container > .row {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #experience .section-heading,
+  #experience .nk-experience-content {
+    width: 100%;
+    max-width: 100%;
+    flex: none;
+    padding: 0;
+    text-align: left;
+  }
+  #experience .section-heading { margin: 0 0 24px !important; align-items: flex-start !important; }
+  #experience .section-heading h1 {
+    color: var(--nk-text);
+    font-family: inherit;
+    font-size: 30px;
+    line-height: 1.2;
+    letter-spacing: -0.7px;
+    font-weight: 500;
+    margin: 0;
+  }
+  #experience .nk-positions { list-style: none; margin: 0; padding: 0; }
+  #experience .nk-position {
+    display: grid;
+    grid-template-columns: 48px minmax(0, 1fr) 148px;
+    column-gap: 18px;
+    padding: 22px 0;
+    border-top: 1px solid var(--nk-rule);
+    align-items: start;
+  }
+  #experience .nk-logo {
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+    margin-top: 2px;
+  }
+  #experience .nk-details { min-width: 0; }
+  #experience .nk-institution {
+    font-family: inherit;
+    font-size: 17px;
+    line-height: 1.4;
+    font-weight: 500;
+    letter-spacing: -0.12px;
+    color: var(--nk-text);
+    margin: 0 0 3px;
+  }
+  #experience .nk-institution a { color: inherit; text-decoration: none; }
+  #experience .nk-institution a:hover,
+  #experience .nk-institution a:focus-visible {
+    color: var(--nk-accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  #experience .nk-role {
+    font-size: 14px;
+    line-height: 1.55;
+    font-weight: 400;
+    margin: 0;
+    color: var(--nk-secondary);
+  }
+  #experience .nk-place,
+  #experience .nk-dates {
+    font-size: 12px;
+    line-height: 1.6;
+    font-weight: 400;
+    margin: 3px 0 0;
+    color: var(--nk-muted);
+  }
+  #experience .nk-dates {
+    text-align: right;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  #experience .nk-current .nk-dates { color: var(--nk-accent); font-weight: 500; }
+  #experience .nk-description { margin-top: 8px; font-size: 14px; line-height: 1.55; }
+  #experience .nk-description p:last-child { margin-bottom: 0; }
+  @media (max-width: 767px) {
+    #experience > .container { padding-left: 18px; padding-right: 18px; }
+    #experience .section-heading { margin-bottom: 18px !important; }
+    #experience .section-heading h1 { font-size: 27px; }
+    #experience .nk-position {
+      grid-template-columns: 42px minmax(0, 1fr);
+      gap: 0 14px;
+      padding: 18px 0;
+    }
+    #experience .nk-logo { width: 40px; height: 40px; grid-row: 1 / 3; }
+    #experience .nk-details { grid-column: 2; }
+    #experience .nk-dates { grid-column: 2; text-align: left; margin-top: 6px; white-space: normal; }
+    #experience .nk-institution { font-size: 16px; }
+  }
+</style>
+
+<div class="col-12 nk-experience-content">
+  {{ with $block.Content }}{{ . }}{{ end }}
+  <ol class="nk-positions">
+    {{ range $block.Params.experience }}
+      {{ $company := .company }}
+      {{ $role := .title }}
+      {{ $location := .location }}
+      {{ if eq $company "Google Deepmind, London" }}
+        {{ $company = "Google DeepMind" }}
+      {{ else if eq $company "Microsoft Research Lab, India" }}
+        {{ $company = "Microsoft Research India" }}
+      {{ else if eq $company "International Labour Organisation (ILO)" }}
+        {{ $company = "International Labour Organisation" }}
+      {{ else if eq $company "Digital Identity Research Initiative at Indian School Of Business" }}
+        {{ $company = "Indian School of Business" }}
+        {{ $role = printf "%s · Digital Identity Research Initiative" $role }}
+      {{ end }}
+      {{ if eq $location "Washington D.C., USA" }}{{ $location = "Washington, D.C., USA" }}{{ end }}
+      <li class="nk-position{{ if not .date_end }} nk-current{{ end }}">
+        {{ if .company_logo }}
+          {{ $logo := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) }}
+          {{ with $logo }}
+            <img class="nk-logo" src="{{ .RelPermalink }}" width="46" height="46" alt="" loading="lazy">
+          {{ else }}
+            <span class="nk-logo" aria-hidden="true"></span>
+          {{ end }}
+        {{ else }}
+          <span class="nk-logo" aria-hidden="true"></span>
+        {{ end }}
+        <div class="nk-details">
+          <h3 class="nk-institution">
+            {{ with .company_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ $company }}{{ with .company_url }}</a>{{ end }}
+          </h3>
+          <p class="nk-role">{{ $role }}</p>
+          {{ with $location }}<p class="nk-place">{{ . }}</p>{{ end }}
+          {{ with .description }}
+            {{ if trim . " \t\r\n" }}<div class="nk-description">{{ . | markdownify | emojify }}</div>{{ end }}
+          {{ end }}
+        </div>
+        <div class="nk-dates">
+          <time datetime="{{ (time .date_start).Format "2006-01" }}">{{ (time .date_start) | time.Format $dateFormat }}</time> to
+          {{ if .date_end }}<time datetime="{{ (time .date_end).Format "2006-01" }}">{{ (time .date_end) | time.Format $dateFormat }}</time>{{ else }}{{ i18n "present" | default "Present" }}{{ end }}
+        </div>
+      </li>
+    {{ end }}
+  </ol>
+</div>
