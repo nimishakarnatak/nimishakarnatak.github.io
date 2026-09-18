@@ -22,8 +22,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 60
-  - name: Hobbies
-    url: '#hobbies'
+   - name: Hobbies
+    url: '/hobbies/'
     weight: 70
   # - name: Contact
   #   url: '#contact'
