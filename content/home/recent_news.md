@@ -24,7 +24,7 @@ design:
 </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2026</b></td>
-        <td style="padding: 6px 0;">My first-author paper, “Learning from AVA: Early Lessons from a Curated and Trustworthy Generative AI for Policy and Development Research,” has been accepted at CHI 2026. See you in Spain 🇪🇸!</td>
+        <td style="padding: 6px 0;">My first-author paper, “Learning from AVA: Early Lessons from a Curated and Trustworthy Generative AI for Policy and Development Research,” has been accepted at CHI 2026. See you in Spain !🇪🇸</td>
       </tr>
       <tr>
         <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>May 2025</b></td>
