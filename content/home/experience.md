@@ -29,7 +29,7 @@ experience:
     location: Washington D.C., USA
     date_start: '2025-05-01'
     date_end: ''
-    description: 
+ 
 
   - title: Student Researcher
     company: Google Deepmind, London
@@ -38,7 +38,7 @@ experience:
     location: London, UK
     date_start: '2024-04-01'
     date_end: '2024-10-01'
-    description: "Project: ACAI for SBOs: AI Co-creation for Advertising and Inspiration for Small Business Owners"
+    
 
   - title: Research Fellow
     company: Microsoft Research Lab, India
@@ -48,10 +48,7 @@ experience:
     date_start: '2021-07-01'
     date_end: '2023-04-30'
     description: |2-
-        Projects:
-        
-        * Understanding the ecosystem of BP management in low resource communities of India
-        * Understanding the technology mediated interaction of phlebotomists in India
+       
 
   - title: User Experience Research Intern
     company: Indian Institute of Technology Roorkee
@@ -60,7 +57,7 @@ experience:
     location: Roorkee, India
     date_start: '2020-06-01'
     date_end: '2020-07-31'
-    description:  "Project: Evaluation of urban space from the perception of the elderly to build an inclusive neighbourhood"
+   
 
   - title: Qualitative Research Assistant
     company: International Labour Organisation (ILO)
@@ -69,7 +66,7 @@ experience:
     location: Geneva, Switzerland
     date_start: '2019-09-01'
     date_end: '2020-05-01'
-    description: "Project: Exploring the experiences of women working in the AI domain in India and understand the ethical aspects of AI from the perspective of women."
+
 
   - title: Research Intern
     company: Digital Identity Research Initiative at Indian School Of Business
@@ -78,8 +75,7 @@ experience:
     location: Bengaluru, India
     date_start: '2020-01-01'
     date_end: '2020-04-01'
-    description: "Project: Exploring the implication of Aadhar failure and consequential exclusion."
-
+    
 
 design:
   columns: '2'
