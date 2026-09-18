@@ -50,7 +50,7 @@ experience:
     description: |2-
        
 
-  - title: User Experience Research Intern
+  - title: Research Intern
     company: Indian Institute of Technology Roorkee
     company_url: 'https://www.iitr.ac.in/'
     company_logo: iitr-logo
@@ -59,7 +59,7 @@ experience:
     date_end: '2020-07-31'
    
 
-  - title: Qualitative Research Assistant
+  - title: Research Assistant
     company: International Labour Organisation (ILO)
     company_url: 'https://www.ilo.org/global/lang--en/index.htm'
     company_logo: ilo-logo
