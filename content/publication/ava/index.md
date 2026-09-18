@@ -23,9 +23,9 @@ tags:
   - Epistemic humility
   - Policy and development
 
-url_pdf: 'https://dl.acm.org/doi/epdf/10.1145/3772318.3791062'
-
 links:
-  - name: Project Website
+  - name: Open-access paper
+    url: 'https://arxiv.org/pdf/2604.17843'
+  - name: AVA project website
     url: 'https://ava.nimishakarnatak.com/'
 ---
