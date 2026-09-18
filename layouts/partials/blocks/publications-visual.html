@@ -30,6 +30,9 @@ body.dark #publications .nk-links a:hover{background:#253847}
 @media(max-width:650px){#publications .nk-paper{display:block}#publications figure{margin-bottom:22px!important}#publications .nk-figure img{height:auto;max-height:300px}#publications .nk-paper h3{font-size:19px}#publications .nk-links a{min-height:38px}}
 </style>
 <div class="nk-pubs">
+  <h2 style="font-size:32px; font-weight:500; margin:0 0 24px;">
+  Publications
+</h2>
 <p class="nk-intro">For the full list of articles, visit my <a href="https://scholar.google.com/citations?user=3bXGqRoAAAAJ">Google Scholar</a> profile.</p>
 {{ with site.GetPage "/publication/ava" }}
 {{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/ava.png" "alt" "AVA interface with inline citations, an evidence preview and a source document viewer." "summary" "Examining citation verifiability and reasoned abstention in AI-supported policy research." "bp" false) }}
