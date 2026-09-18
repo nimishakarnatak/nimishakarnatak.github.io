@@ -1,0 +1,91 @@
+{{/* Oxford Contact layout. The heading is supplied by Wowchemy's page builder. */}}
+<style>
+  #contact {
+    --nk-contact-text: #303030;
+    --nk-contact-muted: #606c78;
+    --nk-contact-link: #1764c0;
+    padding: 72px 0 0;
+    background: #fff;
+    color: var(--nk-contact-text);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.62;
+  }
+  body.dark #contact {
+    --nk-contact-text: #edf0f3;
+    --nk-contact-muted: #b5c0cb;
+    --nk-contact-link: #8ec5ff;
+    background: #181b20;
+  }
+  #contact > .container { width: 100%; max-width: 1180px; padding: 0 28px; }
+  #contact > .container > .row {
+    display: grid;
+    grid-template-columns: 280px minmax(0, 1fr);
+    grid-template-rows: auto 1fr;
+    column-gap: 70px;
+    row-gap: 30px;
+    margin: 0;
+  }
+  #contact .section-heading {
+    grid-column: 1;
+    grid-row: 1;
+    width: auto;
+    max-width: none;
+    padding: 0;
+    margin: 0 !important;
+    text-align: left;
+    align-items: flex-start !important;
+  }
+  #contact .section-heading h1 {
+    margin: 0;
+    color: inherit;
+    font-family: inherit;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 1.2;
+  }
+  #contact .nk-contact-banner {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: start;
+    display: block;
+    width: 260px;
+    max-width: 100%;
+    line-height: 0;
+    padding: 14px 20px;
+    background: #002147;
+    box-sizing: border-box;
+  }
+  #contact .nk-contact-banner img { display: block; width: 100%; height: auto; margin: 0; }
+  #contact .nk-contact-details { grid-column: 2; grid-row: 1 / 3; min-width: 0; padding-top: 6px; }
+  #contact .nk-contact-details p { margin: 0 0 22px; }
+  #contact .nk-contact-address { color: var(--nk-contact-muted); font-style: normal; margin: 0 0 22px; }
+  #contact a { color: var(--nk-contact-link); text-decoration: none; }
+  #contact a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  #contact a:focus-visible { outline: 2px solid var(--nk-contact-link); outline-offset: 5px; }
+  #contact .nk-contact-email { font-size: 19px; overflow-wrap: anywhere; }
+  @media (max-width: 800px) {
+    #contact { padding-top: 48px; font-size: 16px; }
+    #contact > .container { padding: 0 20px; }
+    #contact > .container > .row { grid-template-columns: minmax(0, 1fr); row-gap: 24px; }
+    #contact .section-heading h1 { font-size: 32px; }
+    #contact .nk-contact-banner { grid-column: 1; grid-row: 2; width: 250px; }
+    #contact .nk-contact-details { grid-column: 1; grid-row: 3; padding-top: 0; }
+  }
+</style>
+
+<a class="nk-contact-banner" href="https://www.cs.ox.ac.uk/people/nimisha.karnatak/" aria-label="University of Oxford profile">
+  <img src="{{ "uploads/oxford-computer-science.svg" | relURL }}" width="228" height="110" loading="lazy" alt="University of Oxford, Department of Computer Science">
+</a>
+<div class="nk-contact-details">
+  <p>You can reach me at<br>
+    <a class="nk-contact-email" href="mailto:nimisha.karnatak@cs.ox.ac.uk">nimisha.karnatak@cs.ox.ac.uk</a>
+  </p>
+  <address class="nk-contact-address">
+    Department of Computer Science<br>
+    University of Oxford<br>
+    Wolfson Building, 7 Parks Road<br>
+    Oxford OX1 3QG, United Kingdom
+  </address>
+  <a href="https://www.cs.ox.ac.uk/people/nimisha.karnatak/">University of Oxford profile <span aria-hidden="true">↗</span></a>
+</div>
