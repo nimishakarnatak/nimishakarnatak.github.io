@@ -1,0 +1,13 @@
+{{ with site.GetPage "/authors/admin" }}
+  {{ with .Resources.GetMatch "avatar.jpeg" }}
+    {{ $sharp := .Fill "810x810 Center q90" }}
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('img.avatar').forEach(function (img) {
+          img.removeAttribute('srcset');
+          img.src = {{ $sharp.RelPermalink | jsonify | safeJS }};
+        });
+      });
+    </script>
+  {{ end }}
+{{ end }}
