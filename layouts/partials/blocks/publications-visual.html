@@ -1,0 +1,53 @@
+<style>#publications{font-family:Arial,Helvetica,sans-serif;background:#fff;color:#263742}
+#publications>.container{max-width:1140px}
+#publications>.container>.row{display:block;margin:0}
+#publications .section-heading{width:100%;max-width:none;padding:0;margin:0 0 24px!important;text-align:left}
+#publications .section-heading h1{font:500 32px/1.3 Arial,Helvetica,sans-serif}
+#publications .nk-pubs{width:100%;padding:0}
+#publications .nk-intro{font-size:15px;margin:0 0 32px}
+#publications .nk-paper{display:grid;grid-template-columns:310px minmax(0,1fr);gap:30px;padding:30px 0;border-top:1px solid #e3e8eb}
+#publications .nk-paper:first-of-type{border-top:0;padding-top:0}
+#publications .nk-paper figure{margin:0}
+#publications .nk-figure{display:block;border:1px solid #e3e8eb;border-radius:4px;background:#fff}
+#publications .nk-figure img{display:block;width:100%;height:218px;object-fit:contain;margin:0}
+#publications figcaption{font-size:10px;line-height:1.5;color:#657783;margin-top:8px}
+#publications .nk-venue{font-size:12px;color:#526674;margin:0 0 8px}
+#publications .nk-paper h3{font-size:20px;line-height:1.45;margin:0 0 12px;font-weight:500}
+#publications a{color:#125882}
+#publications .nk-authors{font-size:13px;line-height:1.7;margin:0 0 10px}
+#publications .nk-summary{font-size:14px;line-height:1.7;color:#4e5e6b;margin:0 0 14px}
+#publications .nk-links{display:flex;flex-wrap:wrap;gap:8px}
+#publications .nk-links a{font-size:12px;line-height:1.5;padding:6px 10px;border:1px solid #cddbe5;border-radius:4px}
+#publications .nk-links a:hover{background:#edf4f8}
+#publications a:focus-visible{outline:2px solid #1764c0;outline-offset:4px}
+#publications .nk-paper.nk-compact{display:block}
+body.dark #publications{background:#181b20;color:#edf0f3}
+body.dark #publications a{color:#93c7ef}
+body.dark #publications .nk-summary,body.dark #publications .nk-venue,body.dark #publications figcaption{color:#b5c0cb}
+body.dark #publications .nk-paper,body.dark #publications .nk-links a{border-color:#435360}
+body.dark #publications .nk-links a:hover{background:#253847}
+@media(max-width:800px){#publications .nk-paper{grid-template-columns:250px minmax(0,1fr);gap:24px}}
+@media(max-width:650px){#publications .nk-paper{display:block}#publications figure{margin-bottom:22px!important}#publications .nk-figure img{height:auto;max-height:300px}#publications .nk-paper h3{font-size:19px}#publications .nk-links a{min-height:38px}}
+</style>
+<div class="nk-pubs">
+<p class="nk-intro">For the full list of articles, visit my <a href="https://scholar.google.com/citations?user=3bXGqRoAAAAJ">Google Scholar</a> profile.</p>
+{{ with site.GetPage "/publication/ava" }}
+{{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/ava.png" "alt" "AVA interface with inline citations, an evidence preview and a source document viewer." "summary" "Examining citation verifiability and reasoned abstention in AI-supported policy research." "bp" false) }}
+{{ end }}
+{{ with site.GetPage "/publication/aies" }}
+{{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/aies.svg" "alt" "Figure 1: derivation of epistemic humility, epistemic access, and resistance to epistemic injustice as conditions for epistemically warranted reliance." "summary" "A normative framework for warranted reliance on generative AI in high-stakes workflows." "bp" false) }}
+{{ end }}
+{{ with site.GetPage "/publication/acai" }}
+{{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/acai.png" "alt" "ACAI prototype showing Branding, Audience and Goals, and Inspiration Board panels." "summary" "Supporting small business owners through structured inputs and multimodal AI co-creation." "bp" false) }}
+{{ end }}
+{{ with site.GetPage "/publication/bp-study" }}
+{{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/bp-study.png" "alt" "Illustrated synthesis of the BP study: devices, people and social relationships shape confidence in blood pressure readings." "summary" "Understanding how trust and relationships shape blood-pressure management in India." "bp" true) }}
+{{ end }}
+{{ with site.GetPage "/publication/phlebo-study" }}
+{{ partial "nk-publication-row.html" (dict "paper" . "image" "uploads/publications/phlebo-study.png" "alt" "Diagram of the home phlebotomy ecosystem linking patients, phlebotomists, managers, riders and laboratories." "summary" "Investigating the people, technologies and coordination behind home blood collection in India." "bp" false) }}
+{{ end }}
+{{ range (where site.RegularPages "Section" "publication").ByDate.Reverse }}
+{{ if not (in (slice "ava" "aies" "acai" "bp-study" "phlebo-study") .File.ContentBaseName) }}
+{{ partial "nk-publication-row.html" (dict "paper" .) }}
+{{ end }}{{ end }}
+</div>
