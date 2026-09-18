@@ -24,5 +24,8 @@ tags:
   - Policy and development
 
 url_pdf: 'https://dl.acm.org/doi/epdf/10.1145/3772318.3791062'
-url_project: 'https://ava.nimishakarnatak.com/'
+
+links:
+  - name: Project Website
+    url: 'https://ava.nimishakarnatak.com/'
 ---
