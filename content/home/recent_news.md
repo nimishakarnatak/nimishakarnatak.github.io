@@ -19,6 +19,10 @@ design:
     </colgroup>
     <tbody>
       <tr>
+  <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Sept 2026</b></td>
+  <td style="padding: 6px 0;">My first-author paper, “Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows,” has been accepted at AAAI/ACM AIES 2026. See you in Sweden! 🇸🇪</td>
+</tr>
+      <tr>
         <td style="vertical-align: top; padding: 6px 12px 6px 0;"><b>Jan 2026</b></td>
         <td style="padding: 6px 0;">My first-author paper, “Learning from AVA: Early Lessons from a Curated and Trustworthy Generative AI for Policy and Development Research,” has been accepted at CHI 2026. See you in Spain!</td>
       </tr>
