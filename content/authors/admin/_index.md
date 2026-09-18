@@ -10,12 +10,12 @@ last_name: Karnatak
 superuser: true
 
 # Role/position/tagline
-role: CS Ph.D. Student | International Consultant
+role: D.Phil. Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Oxford
-    url: https://www.ox.ac.uk/
+    url: https://www.cs.ox.ac.uk/people/nimisha.karnatak/
   - name: The World Bank
     url: https://www.worldbank.org/en/what-we-do
   - name: Google Deepmind London
@@ -80,7 +80,7 @@ social:
   - icon: university
     icon_pack: fas
     link: https://www.cs.ox.ac.uk/people/nimisha.karnatak/
-    label: Oxford profile
+    label: University of Oxford profile
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'nimishakarnatak12@gmail.com'
@@ -97,3 +97,4 @@ Alongside my doctoral studies, I am also working as an International Consultant 
 Before joining PhD, I worked as a [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at <img style="display: inline-block; margin-top: 0px; margin-bottom: 0px;" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt= “” width="20" height="20"> [Microsoft Research India (MSRI)](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). At MSRI, I conducted human-centered research in the domain of healthcare under the supervision of (the incredible) [Dr. Bill Theis](https://en.wikipedia.org/wiki/Bill_Thies). Over the years, I have been privileged to contribute as an intern or research assistant at some of the world's most prestigious institutions, including the [International Labour Organization (𝐈𝐋𝐎)](https://www.ilo.org/) in Geneva, Switzerland, the [Indian Institute of Technology Roorkee (𝐈𝐈𝐓-𝐑)](https://www.iitr.ac.in/), the [Indian School of Business (𝐈𝐒𝐁)](https://www.isb.edu/en.html), and the [Indian Institute of Remote Sensing (𝐈𝐈𝐑𝐒)](https://www.iirs.gov.in/) under the [Indian Space Research Organization (𝐈𝐒𝐑𝐎)](https://www.isro.gov.in/).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
