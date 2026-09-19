@@ -22,4 +22,8 @@ tags:
 
 url_pdf: 'https://arxiv.org/pdf/2608.05602'
 url_preprint: 'https://arxiv.org/abs/2608.05602'
+
+links:
+  - name: Project Website
+    url: 'https://epistemic-trust.nimishakarnatak.com/'
 ---
