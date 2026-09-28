@@ -1,0 +1,5 @@
+{{ with resources.Get "media/icon.png" }}
+  {{ $icon := .Resize "96x96 Lanczos" }}
+  <link rel="icon" type="image/png" sizes="96x96"
+        href="{{ $icon.RelPermalink }}">
+{{ end }}
